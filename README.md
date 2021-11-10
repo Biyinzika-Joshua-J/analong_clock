@@ -1,1 +1,1 @@
-# analong_clock
+Analong clock build with Javascript.
